@@ -1,0 +1,11 @@
+C:\Users\fatma.ikis\source\repos\SinemaUygulaması\SinemaUygulaması\bin\Debug\SinemaUygulaması.exe.config
+C:\Users\fatma.ikis\source\repos\SinemaUygulaması\SinemaUygulaması\bin\Debug\SinemaUygulaması.exe
+C:\Users\fatma.ikis\source\repos\SinemaUygulaması\SinemaUygulaması\bin\Debug\SinemaUygulaması.pdb
+C:\Users\fatma.ikis\source\repos\SinemaUygulaması\SinemaUygulaması\obj\Debug\SinemaUygulaması.csproj.AssemblyReference.cache
+C:\Users\fatma.ikis\source\repos\SinemaUygulaması\SinemaUygulaması\obj\Debug\SinemaUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatma.ikis\source\repos\SinemaUygulaması\SinemaUygulaması\obj\Debug\SinemaUygulaması.Form1.resources
+C:\Users\fatma.ikis\source\repos\SinemaUygulaması\SinemaUygulaması\obj\Debug\SinemaUygulaması.Properties.Resources.resources
+C:\Users\fatma.ikis\source\repos\SinemaUygulaması\SinemaUygulaması\obj\Debug\SinemaUygulaması.csproj.GenerateResource.cache
+C:\Users\fatma.ikis\source\repos\SinemaUygulaması\SinemaUygulaması\obj\Debug\SinemaUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\fatma.ikis\source\repos\SinemaUygulaması\SinemaUygulaması\obj\Debug\SinemaUygulaması.exe
+C:\Users\fatma.ikis\source\repos\SinemaUygulaması\SinemaUygulaması\obj\Debug\SinemaUygulaması.pdb
